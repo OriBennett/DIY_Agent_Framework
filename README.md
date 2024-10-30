@@ -23,5 +23,10 @@ source .venv/Scripts/activate
 Install dependancies:
 pip install -r requirements.txt
 
+Add a .env file and add your Groq API key: GROQ_API_KEY = gsk_... (you can get a Groq key here: https://console.groq.com/keys)
+
 Run main.py:
 python main.py
+
+
+If you want to use a different LLM, you can uncomment the relavent section in main.py
