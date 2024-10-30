@@ -12,8 +12,7 @@ This is an agent framework, it can also chain calls:
 ![can chain calls](https://github.com/user-attachments/assets/07afff2f-9c52-4f74-88b5-5f77d142b191)
 
 
-Installation instructions:
-In Bash:
+Installation instructions in Bash:
 
 Create a virtual environment:
 python -m venv .venv
