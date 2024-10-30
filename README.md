@@ -14,6 +14,7 @@ This is an agent framework, it can also chain calls:
 
 Installation instructions:
 In Bash:
+
 Create a virtual environment:
 python -m venv .venv
 
